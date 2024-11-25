@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vrv-govo/static/css/main.0cc7cb35.css",
+    "main.js": "/vrv-govo/static/js/main.f1d71a31.js",
+    "static/js/453.36cd8635.chunk.js": "/vrv-govo/static/js/453.36cd8635.chunk.js",
+    "index.html": "/vrv-govo/index.html",
+    "main.0cc7cb35.css.map": "/vrv-govo/static/css/main.0cc7cb35.css.map",
+    "main.f1d71a31.js.map": "/vrv-govo/static/js/main.f1d71a31.js.map",
+    "453.36cd8635.chunk.js.map": "/vrv-govo/static/js/453.36cd8635.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc7cb35.css",
+    "static/js/main.f1d71a31.js"
+  ]
+}
